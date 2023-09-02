@@ -15,7 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-08-29T18:55:41.344Z"
+    },
+    {
+      "description": "Academia",
+      "price": 70,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2023-09-02T20:43:06.283Z",
+      "id": 3
     }
-    
   ]
 }
